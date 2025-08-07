@@ -39,34 +39,27 @@ Finance teams often rely on manual spreadsheets to compare actual expenses again
 
 • Goal of the Dashboard
 To deliver an automated, real-time dashboard that:
-
 Simplifies the process of comparing actual vs. budgeted financials.
-
 Helps finance teams track overspending or underspending by account or time.
-
 Provides interactive filtering for agile decision-making.
 
 • Walkthrough of Key Visuals
 Key Metrics (Top Panel):
 Displays total budget (₹459.77K), total actuals, and variance.
-
 Month and Year Filter:
 Dynamic slicers let users analyze financial performance by specific months or years.
-
 Actual vs. Budget Bar Chart:
 Side-by-side comparison of actual vs. budgeted amounts by account, making deviations instantly visible.
-
 Variance Analysis Table:
 Tabular view with conditional formatting to highlight over-budget items.
-
 Drilldown Capability:
 Users can click on accounts to drill into sub-level details and view breakdowns.
 
 • Business Impact & Insights
 Time Saved: Eliminates repetitive spreadsheet work through ERP integration and automation.
-
 Increased Accuracy: Reduces human error in reporting through connected datasets.
-
 Better Financial Control: Instantly identifies departments or accounts exceeding budget.
-
 Strategic Agility: Enables quicker financial decisions by surfacing real-time variances.
+
+
+<img width="631" height="368" alt="image" src="https://github.com/user-attachments/assets/9d0551ae-4031-4ce4-b743-afdd8c56b846" />
