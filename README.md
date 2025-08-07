@@ -1,6 +1,6 @@
 # 💼 Actual vs Budget Dashboard
 
-**📊 Actual vs Budget Dashboard – Real-time ERP-Integrated Financial Insights**  
+**1. 📊 Actual vs Budget Dashboard – Real-time ERP-Integrated Financial Insights**  
 An interactive Power BI dashboard seamlessly connected to Microsoft Dynamics 365 Business Central, designed to compare actual financial performance against budgeted targets, enabling efficient financial oversight and strategic planning.
 
 ---
